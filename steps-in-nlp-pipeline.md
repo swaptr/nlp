@@ -4,6 +4,6 @@
 - Modeling and Evaluation
 - Deployment and Monitoring
 
-**Pre-processing**: Lowercasing, Tokenization, Sentence segmentation, Stemming, Lemmatization, POS tagging, etc.
+**Pre-processing**: Lowercasing, Tokenization, Sentence segmentation, Stemming, NER, Stop words removal, Lemmatization, Word Sense disambiguation, Part of speech tagging, etc.
 
 **Feature Engineering**: Text -> Numeric; Word embeddings, CountVectorizer, TF-IDF Vectorizer, etc.
